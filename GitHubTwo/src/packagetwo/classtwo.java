@@ -10,7 +10,6 @@ public class classtwo {
 		intList.add(1);
 		intList.add(2);
 		intList.add(3);
-		System.out.println(intList);
 		System.out.println("Let's print the elemnets in the list");
 		for(int i: intList){
 			System.out.println(i);
