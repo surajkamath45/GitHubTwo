@@ -12,6 +12,7 @@ public class classtwo {
 		intList.add(3);
 		System.out.println(intList);
 		System.out.println("This is how you print a list");
+		System.out.println("Second output");
 		
 	}
 
